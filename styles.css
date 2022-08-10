@@ -170,6 +170,27 @@ nav > ul {
   transition: background-color 1s;
 }
 
+@media (max-width: 650px) {
+  #hero {
+    margin-top: 120px;
+  }
+}
+
+#features {
+  margin-top: 30px;
+}
+
+#features .icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 125px;
+  width: 20vw;
+  color: darkorange;
+}
+
+
+
 @media (prefers-reduced-motion: no-preference) {
       * {
         scroll-behavior: smooth;
