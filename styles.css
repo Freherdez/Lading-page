@@ -86,6 +86,10 @@ a {
   background: transparent;
   cursor: pointer;
 }
+
+.grid {
+  display: flex;
+}
   
 @media (prefers-reduced-motion: no-preference) {
       * {
