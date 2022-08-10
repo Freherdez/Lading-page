@@ -24,6 +24,11 @@
     background-color: #eee;
     
   }
+
+  logo {
+    width: 60vw;
+  }
+  
   
   #header-img {
     width: 25rem
