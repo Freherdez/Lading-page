@@ -29,6 +29,16 @@
     width: 60vw;
   }
   
+  logo > img {
+    width: 100%;
+    height: 100%;
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 20px;
+  }
   
   #header-img {
     width: 25rem
